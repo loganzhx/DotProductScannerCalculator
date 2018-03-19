@@ -1,7 +1,7 @@
 import java.util.Scanner; 
 
 public class DotProduct {
-  public static void main( String [] args ) {
+  public static void main(String [] args) {
     Scanner input = new Scanner(System.in);
     int[] a = new int[3];
     Scanner input2 = new Scanner(System.in);
